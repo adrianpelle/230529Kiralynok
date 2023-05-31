@@ -6,7 +6,7 @@ public class SakkMain {
 		
 
 		Tabla t = new Tabla();
-		ClassForFifthTask.Elhelyez(3, t);
+		ClassForFifthTask.Elhelyez(8, t);
 		NegyedikFeladatMegjelenit.Megjelenit(t);
 		
 		
