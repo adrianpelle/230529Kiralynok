@@ -2,7 +2,7 @@ package sakk;
 
 public class Tabla {
 	
-	private char[][] t;
+	public char[][] t;
 	private char uresCella;
 	
 	
