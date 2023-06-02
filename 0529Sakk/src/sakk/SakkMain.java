@@ -7,6 +7,7 @@ public class SakkMain {
 
 		Tabla t = new Tabla();
 		ClassForFifthTask.Elhelyez(8, t);
+		System.out.println("Feladat 7 (uresSor(0) ) : "+ClassForSeventhTask.UresOszlop(0, t));
 		NegyedikFeladatMegjelenit.Megjelenit(t);
 		
 		
